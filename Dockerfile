@@ -1,4 +1,4 @@
-# UI Dockerfile
+# UI Dockerfile Updated
 
 # Use the official Nginx image
 FROM nginx:alpine
